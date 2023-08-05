@@ -1,0 +1,18 @@
+add path :(permission:"True")
+local C -> laragon -> bin-> php-> php ver name-> dev->copy url ->search edit enviroment -> double click  path (system)-> add new -> paste url
+
+add path:(permission:"false")
+
+
+
+utf8-general-Ci 
+
+backend nae front end ko .env nae connect
+
+
+API 
+1.   api request ko import lok ya tal
+2.  backend ka taung tae para ko  left mr yay , frontend ka hr k right yay
+
+
+Time ka Header htae mr yay htr
